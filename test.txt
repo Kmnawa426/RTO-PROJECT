@@ -1,0 +1,41 @@
+
+RTO project:
+Admin:
+Manages Users Done
+Manage Applications, (verify documents, update status) Done 
+View Ready Applicants //Filtering Pending  
+
+Assign Driving test Date and Time 
+Update test status
+Manage fines for vehicle(APPLY FINE OR PENALTY)
+//Additional
+Vehicle Registration application View and Verify
+Assign RTO Officer For Inspection
+RTO Officer updates Vehicle Status
+RTO Admin issue Vehicle Registration Certificate.
+
+
+Users:
+register/login Done 
+application for learner licence Done 
+application for driving licence Done 
+view application status Done 
+Training driving school selection /Partially Done
+
+
+view training progress
+view test status
+View Fines & Pay Online
+//Additional
+Vehicle Registration application form filled
+can view Registration Status
+
+
+
+driving school:
+view new applicants
+setup training schedule
+after training ready alert to RTO Admin
+
+Main Points:
+License can be for (2 wheeler, with or without gear and 4 wheeler)
